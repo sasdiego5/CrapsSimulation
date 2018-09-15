@@ -1,4 +1,4 @@
-
+// this crooked die returns 1,2,3,4,5,6 sequentially
 public class CrookedDie2 extends Die // subclassing
 {
 	public CrookedDie2()
