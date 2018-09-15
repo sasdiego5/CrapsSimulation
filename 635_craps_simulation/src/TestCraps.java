@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-// my first git edit...
+// Test Craps game with crooked die
 
 /**
  * Starting application for running multiple simulations of CrapsGame. This
