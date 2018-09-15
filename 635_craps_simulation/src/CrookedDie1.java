@@ -1,5 +1,5 @@
 // this crooked die always returns 3
-public class CrookedDie1 extends Die
+public class CrookedDie1 extends Die // Subclass of Die
 {
 	public CrookedDie1()
 	{
